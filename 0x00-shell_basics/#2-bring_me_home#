@@ -1,0 +1,3 @@
+#!/bin/bash
+pushd SOME_PATH
+p 
