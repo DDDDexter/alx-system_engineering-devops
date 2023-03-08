@@ -1,2 +1,3 @@
 #!/bin/bash
-exec ls .    \n
+exec ls .
+
