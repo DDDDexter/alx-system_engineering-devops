@@ -1,1 +1,2 @@
-exec pwd
+#!/bin/bash
+exec pwd \n
