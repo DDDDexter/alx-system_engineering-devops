@@ -1,0 +1,1 @@
+i should write what each script do, but first i will nail my tasks first, sorry, you can try if you want too lol.
